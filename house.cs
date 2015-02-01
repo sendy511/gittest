@@ -2,7 +2,7 @@ class House
 {
 	pulic double size {
 		get{
-			return 100;
+			return 9999990100;
 		}
 	}
 } 
